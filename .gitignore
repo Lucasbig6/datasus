@@ -1,0 +1,22 @@
+# Dados
+test.db
+uploads/*
+!.gitkeep
+
+# Ambiente
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Docker
+*.log
+
+# IDE
+.vscode/
+.idea/
